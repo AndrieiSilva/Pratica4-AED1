@@ -71,4 +71,4 @@ merging them into one sorted linked list:
 
 Não consegui realizar o exercício por completo na aula, terminei de fazer o exercício em casa. Devido à alguns contratempos tive que dar um pesquisada de como é feito o exercício.
 
-# Submit do LeetCode -----------> [LINK]([https://leetcode.com/submissions/detail/1722262319/](https://leetcode.com/submissions/detail/1738767616/))
+# Submit do LeetCode -----------> [LINK](https://leetcode.com/submissions/detail/1738767616/)
